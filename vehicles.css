@@ -1,0 +1,735 @@
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+
+
+
+.body{
+  
+  overflow-x: hidden;
+}
+
+.vehicles-intro{
+  height: 873px;
+  width: 1915px;
+  background-color: rgb(42, 42, 42);
+  margin-top: -40px;
+  margin-left: -8px;
+  border:  solid 2px;
+}
+
+
+
+.cars-list{
+  font-size: xx-large;
+  font-weight: bolder;
+  color: white;
+  position: absolute;
+  left: 80px;
+  top: 700px;
+}
+
+.page-title{
+   position: absolute;
+   font-size: 60px;
+   color: white;
+   left: 780px;
+   top: -1px;
+   z-index: 1000px;
+}
+
+
+.car-one-intro{
+  height: 300px;
+  left: 260px;
+  position: absolute;
+  margin-top: 160px;
+}
+
+
+
+
+.car-two-intro{
+  height: 300px;
+  left: 712px;
+  margin-top: 160px;
+  position: absolute;
+}
+
+
+
+.car-three-intro{
+  height: 300px;
+  width: 400px;
+  right: 338px;
+  margin-top: 160px;
+  position: absolute;
+}
+
+
+
+.car-four-intro{
+  height: 300px;
+  width: 450px;
+  top: 305px;
+  left: 260px;
+  margin-top: 87px;
+  position: absolute;
+}
+
+
+.car-five-intro{
+  height: 300px;
+  width: 450px;
+  top: 305px;
+  left: 712px;
+  margin-top: 87px;
+  position: absolute;
+}
+
+
+.car-six-intro{
+  height: 300px;
+  width: 402px;
+  top: 305px;
+  left: 1164px;
+  position: absolute;
+  margin-top: 87px;
+}
+
+
+.top-shortCuts-div{
+  border:  2px solid;
+  background-color: #181717;
+  position: fixed;
+  height: 60px;
+  width: 1913px;
+  z-index: 20;
+  top: 0px;
+  right: 2px;
+  }
+
+
+
+
+  .services-shortCut{
+    color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 30px;
+    position: absolute;
+    left: 40px;
+    top: -20px;
+    text-decoration: underline;
+    }
+    
+    
+    .vehicles-shortCut{
+    color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 30px;
+    position: absolute;
+    right: 680px;
+    top: -20px;
+    text-decoration: underline;
+    }
+    
+    .Corporate-account-shortCut{
+    color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 110px;
+    position: absolute;
+    right: 450px;
+    top: -20px;
+    text-decoration: underline;
+    }
+    
+    .contact-shortCut{
+    color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 190px;
+    position: absolute;
+    right: 220px;
+    top: -20px;
+    text-decoration: underline;
+    }
+    
+    
+    .special-request-shortCut{
+    color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 290px;
+    position: absolute;
+    right: -60px;
+    top: -20px;
+    text-decoration: underline;
+    }
+
+
+    .home-shortCut{
+      color: goldenrod;
+    font-size: xx-large;
+    cursor: pointer;
+    width: 30px;
+    position: absolute;
+    right: 800px;
+    top: -20px;
+    text-decoration: underline;
+    }
+
+
+
+    .home-title{
+      font-size: xx-large;
+      position: relative;
+      z-index: 10;
+      color: goldenrod;
+      left: 20px;
+      top: -25px;
+      display: inline-block;
+      text-decoration: underline;
+      }
+
+
+      .middle-part{
+        height: 2400px;
+        width: 1914px;
+        position: relative;
+        border: 4px solid ;
+        margin-left: -8px;
+        background-color: rgb(67, 67, 67);
+      }
+
+
+
+      .car-one-middle-img{
+        height: 300px;
+        left: 500px;
+        position: absolute;
+        margin-top: -10px;
+        color: white;
+      }
+
+
+
+      .dot{
+        display: inline-block;
+        text-align: center;
+        font-size: 40px; 
+        font-weight: bold; 
+        color: white;
+        margin-top: -10px;
+        margin-left: 205px;
+      }
+
+
+
+      .middle-first-car-text{
+        margin-left: 790px;
+       margin-top: 70px;
+       font-size: x-large;
+       color: goldenrod;
+      }
+
+      .first-car-title{
+        font-size: xx-large;
+        color: white;
+        position: absolute;
+        margin-left: -200px;
+        margin-top: -58px;
+        font-weight: bolder;
+      }
+
+
+      .car-two-middle-img{
+        height: 300px;
+        left: 960px;
+        position: absolute;
+        margin-top: 18px;
+        color: white;
+      }
+
+
+      .second-car-title{
+        font-size: xx-large;
+        color: white;
+        position: absolute;
+        margin-left: 940px;
+        margin-top: -30px;
+        font-weight: bolder;
+      }
+
+
+      .second-car-text-one{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+        margin-top: 120px;
+        
+      }
+
+
+      .second-car-text-two{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+        margin-top: 10px;
+      }
+
+
+      .second-car-text-three{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+
+      .second-car-text-four{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+       
+      .second-car-text-five{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+      
+      .second-car-text-six{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+
+      .second-car-text-seven{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+        margin-bottom: 30px;
+      }
+
+
+      .middle-second-car-text-div{
+        margin-top: -60px;
+      }
+
+
+      .car-three-middle-img{
+        height: 300px;
+        left: 450px;
+        margin-top: 100px;
+        position: absolute;
+        color: white;
+      }
+
+
+      .third-car-text-one{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+        margin-top: -130px;
+      } 
+
+
+      .third-car-text-two{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+        
+      }
+
+
+      .third-car-text-three{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+      }
+
+
+      .third-car-text-four{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+      }
+
+
+      .third-car-text-five{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+      }
+
+
+      .third-car-text-six{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 980px;
+        
+      }
+
+
+
+      .third-car-title{
+         display: inline-block;
+         margin-top: 10px;
+         margin-left: 550px;
+         font-size: xx-large;
+         color: white;
+         font-weight: bolder;
+      }
+
+
+      .dot-second{
+        color: white;
+        font-size: 40px; 
+        font-weight: bold; 
+        margin-left: 200px;
+      }
+
+
+      .dot-third{
+        color: white;
+        font-size: 40px; 
+        font-weight: bold; 
+      }
+
+
+
+
+      .middle-fourth-car-div{
+        height: 350px;
+        width: 1200px;
+        margin-left: 200px;
+        margin-top: 10px;
+        
+      }
+
+
+      .car-four-middle-img{
+        height: 300px;
+        width: 500px;
+        margin-top: -20px;
+        margin-left: 730px;
+      }
+
+
+
+      .fourth-car-title{
+        display: inline-block;
+         margin-top: -15px;
+         margin-left: 810px;
+         font-size: xx-large;
+         color: white;
+         font-weight: bolder;
+      }
+
+
+
+      .fourth-car-text-one{
+        font-size: x-large;
+        color: goldenrod;
+        margin-top: -370px;
+        margin-left: 300px;
+      }
+
+
+      .fourth-car-text-two{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+
+
+      .fourth-car-text-three{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+
+      .fourth-car-text-four{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 300px;
+      }
+
+
+      .fourth-car-text-five{
+        font-size: x-large;
+        color: goldenrod;
+        margin-top: -20px;
+        margin-left: 300px;
+      }
+
+
+      .fourth-car-text-six{
+        font-size: x-large;
+        color: goldenrod;
+        margin-top: -20px;
+        position: absolute;
+        margin-left: 300px;
+      }
+
+
+      .middle-fifth-car-div{
+        height: 200px;
+        width: 1000px;
+        height: 400px;
+        margin-left: 420px;
+        margin-top: 30px;
+      }
+
+
+      .car-five-middle-img{
+        height: 400px;
+        width: 500px;
+      }
+
+
+      .fifth-car-title{
+        display: inline-block;
+     position: absolute;
+     bottom: 920px;
+     left: 445px;
+        font-size: xx-large;
+        color: white;
+        font-weight: bolder;
+      } 
+
+
+      .fifth-car-text-one{
+        font-size: x-large;
+        color: goldenrod;
+        margin-top: -410px;
+        margin-left: 500px;
+      }
+
+
+      .fifth-car-text-two{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 500px;
+      }
+
+
+
+      .fifth-car-text-three{
+        font-size: x-large;
+        color: goldenrod;    
+        margin-left: 500px;
+      } 
+
+
+
+      .fifth-car-text-four{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 500px;
+      }
+
+
+      .fifth-car-text-five{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 500px;
+      }
+
+
+      .fifth-car-text-six{
+        font-size: x-large;
+        color: goldenrod;
+        margin-left: 500px;
+      }
+
+
+
+      .six-car-title{
+        display: inline-block;
+        position: absolute;
+       bottom:  490px;
+        left: 965px;
+           font-size: xx-large;
+           color: white;
+           font-weight: bolder;
+      }
+
+
+      .car-six-middle-img{
+        height: 400px;
+        width: 500px;
+        margin-left: 500px;
+      }
+
+
+
+      .middle-six-car-div{
+        
+        margin-top: 40px;
+      }
+
+
+
+      .six-car-text-one{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 1850px;
+        left: 470px;
+      }
+
+
+      .six-car-text-two{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 1900px;
+        left: 470px;
+      }
+
+
+      .six-car-text-three{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 1950px;
+        left: 470px;
+      }
+
+
+      .six-car-text-four{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 2000px;
+        left: 470px;
+      } 
+
+
+      .six-car-text-five{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 2050px;
+        left: 470px;
+      }
+
+
+
+      .six-car-text-six{
+        font-size: x-large;
+        color: goldenrod;
+        position: absolute;
+        top: 2100px;
+        left: 470px;
+      }
+
+
+
+
+
+      .home-footer{
+        height: 550px;
+      width: 1990px;
+      margin-top: 120px;
+      margin-left: -425px;
+      border: 2px solid;
+      background-color: wheat;
+      position: relative;
+      }
+      
+      
+      .vehicles-shortCut-footer{
+        color: goldenrod;
+        font-size: 43px;
+        cursor: pointer;
+        position: absolute;
+        left: 750px;
+        text-decoration: underline;
+        margin-top: 70px;
+      }
+      
+      
+      .Corporate-account-shortCut-footer{
+        color: goldenrod;
+        font-size: 43px;
+        cursor: pointer;
+        position: absolute;
+        left: 750px;
+        text-decoration: underline;
+        margin-top: 150px;
+      }
+      
+      
+      
+      .contact-shortCut-footer{
+        color: goldenrod;
+        font-size: 43px;
+        cursor: pointer;
+        position: absolute;
+        left: 750px;
+        text-decoration: underline;
+        margin-top: 240px;
+      }
+      
+      
+      .special-request-shortCut-footer{
+        color: goldenrod;
+        font-size: 43px;
+        cursor: pointer;
+        position: absolute;
+        left: 750px;
+        text-decoration: underline;
+        margin-top: 320px;
+      }
+      
+      
+      .footer-image{
+        height: 350px;
+        margin-top: 100px;
+        margin-left: 100px;
+      }
+      
+      
+      .footer-image-two{
+        height: 350px;
+        margin-top: 100px;
+        margin-left: 530px;
+      }
+      
+      
+      
+      .home-shortCut-footer{
+        color: goldenrod;
+        font-size: 43px;
+        cursor: pointer;
+        position: absolute;
+        left: 750px;
+        text-decoration: underline;
+        margin-top: 0px;
+      }

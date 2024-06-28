@@ -1,0 +1,306 @@
+
+.account-div{
+  background-color: blanchedalmond;
+  height: 600px;
+  margin-left: 650px;
+  margin-top: -830px;
+  display: flex;
+  flex-direction: column;
+  width: 500px; 
+  opacity: 1;
+  z-index: 10;
+  position: relative;
+}
+
+
+.body{
+  background-color: black;
+  overflow-x: hidden;
+}
+
+
+
+.user-name{
+  margin-top: 120px;
+  width: 492px;
+  height: 40px;
+  font-size: x-large;
+  border: none;
+}
+
+
+.first-name{
+  height: 40px;
+  margin-top: 30px;
+  width: 492px;
+  font-size: x-large;
+  border: none;
+}
+
+
+
+.last-name{
+  height: 40px;
+  width: 492px;
+  margin-top: 30px;
+  font-size: x-large;
+  border: none;
+}
+
+
+
+.email{
+  width: 492px;
+  height: 40px;
+  margin-top: 30px;
+  font-size: x-large;
+  border: none;
+}
+
+
+
+.password{
+  width: 492px;
+  height: 40px;
+  margin-top: 30px;
+  font-size: x-large;
+  border: none;
+}
+
+
+.background{
+  height: 959px;
+      width: 2000px;
+      opacity: 0.3;  
+}
+
+
+.title{
+  font-size: 45px;
+  display: inline-block;
+  position: absolute;
+  left: 160px;
+  top: -50px;
+  color: goldenrod;
+  font-weight: bolder;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+
+
+.sign-up{
+ background-color: goldenrod;
+ width: 200px;
+ height: 50px;
+ border-radius: 25px;
+ margin-left: 25px;
+ margin-top: 40px;
+ border: none;
+ font-style: bold;
+ font-size: x-large;
+ cursor: pointer;
+}
+
+
+
+.log-in{
+ background-color: goldenrod;
+ border: none;
+ width: 200px;
+ height: 50px;
+ border-radius: 25px;
+ margin-left: 278px;
+ margin-top: -50px;
+ font-style: bold;
+ font-size: x-large;
+ cursor: pointer;
+}
+
+
+.sign-up:hover{
+  color: white;
+  background-color: rgb(255, 183, 0);
+}
+
+
+.log-in:hover{
+  color: white;
+  background-color: rgb(255, 183, 0);
+}
+
+
+.exit-x{
+  cursor: pointer;
+  position: absolute;
+  font-size: xx-large;
+  right: 5px;
+  top: -33px;
+  color: black;
+  
+}
+
+
+
+.account-footer{
+  height: 550px;
+width: 1900px;
+position: relative;
+
+background-color: wheat;
+top: 240px;
+left: -5px;
+}
+
+
+.home-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 40px;
+}
+
+
+
+.vehicles-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 110px;
+}
+
+
+.Corporate-account-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 180px;
+}
+
+
+
+.contact-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 250px;
+}
+
+
+.special-request-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 330px;
+}
+
+
+
+.footer-image{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+
+.footer-image-two{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 530px;
+}
+
+
+
+.top-shortCuts-div{
+  position: relative;
+  width: 2000px;
+  height: 70px;
+  margin-left: -10px;
+  border: 2px solid black;
+  background-color: #181717;
+  margin-top: -10px;
+
+}
+
+
+.home-shortCut{
+  color: goldenrod;
+  font-size: 33px;
+  cursor: pointer;
+  position: absolute;
+  right: 840px;
+  text-decoration: underline;
+  top: -25px;
+
+}
+
+.vehicles-shortCut{
+  color: goldenrod;
+  font-size: 33px;
+  cursor: pointer;
+  position: absolute;
+  right:  690px;
+  text-decoration: underline;
+  top: -25px;
+}
+
+
+.Corporate-account-shortCut{
+  color: goldenrod;
+  font-size: 33px;
+  cursor: pointer;
+  position: absolute;
+  right:  540px;
+  text-decoration: underline;
+  top: -25px;
+}
+
+
+
+.contact-shortCut{
+  color: goldenrod;
+  font-size: 33px;
+  cursor: pointer;
+  position: absolute;
+  right:  360px;
+  text-decoration: underline;
+  top: -25px;
+}
+
+
+.special-request-shortCut{
+  color: goldenrod;
+  font-size: 33px;
+  cursor: pointer;
+  position: absolute;
+  right: 120px;
+  text-decoration: underline;
+  top: -25px;
+}
+
+
+.home-title{
+  font-size: xx-large;
+  position: relative;
+  z-index: 10;
+  color: goldenrod;
+  left: 20px;
+  top: -20px;
+  display: inline-block;
+  text-decoration: underline;
+}

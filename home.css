@@ -1,0 +1,469 @@
+
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.body{
+  background-color: black;
+  margin-right: 30px;
+  overflow-x: hidden;
+  
+}
+
+.home-first-picture{
+  margin-left: -10px;
+  height: 1000px;
+  width: 1950px;
+  opacity: 0.3;
+ position: relative;
+ margin-top: -140px;
+}
+
+.limo-rent-input-fields{
+  z-index: 3;
+  height: 100px;
+  border:  2px solid;
+  position: relative;
+  top: 600px;
+  width: 400px;
+  height: 600px;
+  left: 300px;
+  background-color: black;
+}
+
+.home-intro-container{
+position: relative;
+margin-top: -500px;
+}
+
+.pick-up-input{
+margin-top: 40px;
+height: 60px;
+width: 397px;
+font-size: x-large;
+background-color: rgb(48, 48, 48);
+color: goldenrod;
+border: none;
+}
+
+.drop-off-input{
+margin-top: 50px;
+height: 60px;
+width: 397px;
+font-size: x-large;
+background-color: rgb(48, 48, 48);
+color: goldenrod;
+border: none;
+}
+
+.date-time{
+margin-top: 50px;
+height: 60px;
+width: 397px;
+font-size: x-large;
+background-color: rgb(48, 48, 48);
+color: goldenrod;
+border: none;
+}
+
+
+.passenger-number{
+margin-top: 30px;
+height: 60px;
+width: 397px;
+font-size: x-large;
+background-color: rgb(48, 48, 48);
+color: goldenrod;
+border: none;
+}
+
+.rent-button{
+margin-top: 30px;
+height: 70px;
+width: 360px;
+background-color: goldenrod;
+border-radius: 35px;
+color: white;
+font-size: 25px;
+cursor: pointer;
+margin-left: 20px;
+border: none;
+}
+
+.event-type{
+   width: 400px;
+   height: 50px;
+   background-color: black;
+   color: goldenrod;
+   font-size: larger;
+}
+
+
+
+.top-shortCuts-div{
+border: black 2px solid;
+background-color: #181717;
+position: fixed;
+height: 60px;
+width: 1900px;
+z-index: 20;
+top: 0px;
+right: 2px;
+}
+
+
+.home-title{
+  font-size: xx-large;
+  position: relative;
+  z-index: 10;
+  color: goldenrod;
+  left: 20px;
+  top: -25px;
+  display: inline-block;
+  text-decoration: underline;
+  }
+
+
+.services-shortCut{
+color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 30px;
+position: absolute;
+left: 40px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.vehicles-shortCut{
+color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 30px;
+position: absolute;
+right: 680px;
+top: -20px;
+text-decoration: underline;
+}
+
+.Corporate-account-shortCut{
+color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 110px;
+position: absolute;
+right: 450px;
+top: -20px;
+text-decoration: underline;
+}
+
+.contact-shortCut{
+color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 190px;
+position: absolute;
+right: 220px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.special-request-shortCut{
+color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 290px;
+position: absolute;
+right: -60px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.home-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 30px;
+position: absolute;
+right: 800px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.home-middle-section{
+height: 600px;
+width: 1890px;
+margin-top: -100px;
+margin-left: -5px;
+border: 2px solid;
+}
+
+.key-points{
+border: rgb(209, 169, 68) 2px solid;
+background-color: rgb(42, 42, 42);
+width: 700px;
+margin-top: 140px;
+height: 250px;
+margin-left: 560px;
+border-radius: 150px;
+z-index: 5;
+}
+
+.key-points:hover{
+   border-color: orangered;
+   transition: 0.5s;
+}
+
+.luxury-car-logo{
+  height: 110px;
+  margin-top: -25px;
+  margin-left: 90px;
+}
+
+
+.luxury-cars-keyPoint{
+  color: goldenrod;
+  margin-left: 90px;
+  font-size: x-large;
+  
+}
+
+
+.calender-logo{
+  height: 110px;
+  margin-bottom: 20px;
+  margin-left: 70px;
+}
+  
+
+.Multi-day-services{
+  color: goldenrod;
+  font-size: x-large;
+  margin-left: 260px;
+  margin-top: -138px;
+
+}
+
+.calender-logo{
+  margin-left: 290px;
+  margin-top: -23px;
+}
+
+
+.luxury-logo{
+  height: 110px;
+  width: 110px;
+  margin-top: -20px;
+  margin-left: 490px;
+}
+
+
+.vip-text{
+color: goldenrod;
+margin-left: 460px;
+margin-top: -160px;
+font-size: x-large;
+}
+
+
+.luxury-limo{
+  height: 400px;
+  margin-top: -285px;
+  margin-left: 5px;
+  width: 550px;
+}
+
+.luxury-limo-two-div{
+  height: 400px;
+  margin-top: -395px;
+  margin-left: 1270px;
+  width: 610px;
+}
+
+
+.luxury-limo-two{
+  width: 610px;
+  height: 400px;
+}
+
+
+
+
+
+.limousine-egypt{
+    height: 1350px;
+    width: 1885px;
+    border: 2px solid;
+}
+
+
+.limo-road{
+  height: 350px;
+  margin-left: 250px;
+  margin-top: 70px;
+}
+
+
+.comfortable-text{
+  color: wheat;
+  margin-left: 900px;
+  margin-top: -210px;
+  font-style: italic;
+  font-size: 35px;
+}
+
+.gold-line{
+  margin-left: 880px;
+  margin-top: -150px;
+  width: 670px;
+}
+
+
+
+.rolls-royce-limo{
+  height: 350px;
+  width: 620px;
+  margin-left: 890px;
+  margin-top: -1200px;
+}
+
+
+.prices{
+  color: wheat;
+  margin-left: 160px;
+  margin-top: -250px;
+  font-style: italic;
+  font-size: 35px;
+}
+
+
+.gold-line-two{
+  margin-left: 130px;
+  margin-top: -170px;
+  width: 750px;
+}
+
+
+.limo-night{
+ height: 350px;
+ width: 700px;
+ margin-top: -250px;
+ margin-left: 150px;
+}
+
+
+.limo-any-time-text{
+  color: wheat;
+  margin-left: 900px;
+  margin-top: -250px;
+  font-style: italic;
+  font-size: 35px;
+}
+
+
+.gold-line-three{
+  margin-left: 880px;
+  margin-top: -300px;
+  width: 950px;
+}
+
+
+.home-footer{
+  height: 550px;
+width: 1890px;
+margin-left: -5px;
+border: 2px solid;
+background-color: wheat;
+position: relative;
+}
+
+
+.vehicles-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 70px;
+}
+
+
+.Corporate-account-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 150px;
+}
+
+
+
+.contact-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 240px;
+}
+
+
+.special-request-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 320px;
+}
+
+
+.footer-image{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+
+.footer-image-two{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 530px;
+}
+
+
+
+.home-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 0px;
+}

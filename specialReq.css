@@ -1,0 +1,360 @@
+
+.background{
+  height: 959px;
+  width: 2000px;
+  opacity: 0.3;  
+}
+
+
+.body{
+  background-color: black;
+  height: 500px;
+  overflow-x: hidden;
+}
+
+
+.special-req-fields-div{
+  position: relative;
+  border: black 2px solid;
+  background-color: rgb(88, 88, 88);
+  height: 810px;
+  width: 400px;
+  top: -895px;
+  left: 350px;
+}
+
+
+.name-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 15px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.email-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 80px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.number-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.event-type{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 430px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.city-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 220px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.date-time-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 290px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.vechical-type{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 360px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.submit-button{
+  position: absolute;
+  bottom: 20px;
+  left: 95px;
+  height: 50px;
+  border-radius: 25px;
+  border: none;
+  font-size: x-large;
+  color: white;
+  cursor: pointer;
+  font-style: italic;
+  font-weight: bolder;
+  background-color: goldenrod;
+  width: 200px;
+}
+
+
+.submit-button:hover{
+  background-color: blanchedalmond;
+}
+
+
+
+.passenger-number-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 505px;
+  left: 20px;
+  height: 50px;
+  width: 352px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.special-request-input{
+  background-color: rgb(42, 42, 42);
+  position: absolute;
+  top: 565px;
+  left: 15px;
+  height: 160px;
+  width: 365px;
+  color: goldenrod;
+  font-size: x-large;
+  border: none;
+}
+
+
+.page-text{
+top: 50px;
+left: 800px;
+font-size: 35px;
+font-style: italic;
+font-weight: bolder;
+  position: absolute;
+  color: burlywood;
+}
+
+
+.page-text-two{
+  top: 100px;
+left: 800px;
+font-size: 35px;
+font-style: italic;
+
+font-weight: bolder;
+  position: absolute;
+  color: whitesmoke;
+}
+
+
+
+.top-shortCuts-div{
+  border: black 2px solid;
+background-color: #181717;
+position: fixed;
+height: 60px;
+width: 1900px;
+z-index: 20;
+top: 0px;
+right: 2px;
+}
+
+
+
+.home-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 30px;
+position: absolute;
+right: 800px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.vehicles-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 30px;
+position: absolute;
+right: 680px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+
+
+.Corporate-account-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 110px;
+position: absolute;
+right: 450px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+.contact-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 190px;
+position: absolute;
+right: 220px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+
+
+.special-request-shortCut{
+  color: goldenrod;
+font-size: xx-large;
+cursor: pointer;
+width: 290px;
+position: absolute;
+right: -60px;
+top: -20px;
+text-decoration: underline;
+}
+
+
+
+.home-title{
+  font-size: xx-large;
+  position: relative;
+  z-index: 10;
+  color: goldenrod;
+  left: 20px;
+  top: -25px;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+
+
+.home-footer{
+  height: 550px;
+width: 1890px;
+margin-left: -5px;
+border: 2px solid;
+background-color: wheat;
+position: absolute;
+top: 960px;
+}
+
+
+.home-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 0px;
+}
+
+
+.vehicles-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 70px;
+}
+
+
+.Corporate-account-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 150px;
+}
+
+
+.contact-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 240px;
+}
+
+
+.special-request-shortCut-footer{
+  color: goldenrod;
+  font-size: 43px;
+  cursor: pointer;
+  position: absolute;
+  left: 750px;
+  text-decoration: underline;
+  margin-top: 320px;
+}
+
+
+
+.footer-image{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+
+.footer-image-two{
+  height: 350px;
+  margin-top: 100px;
+  margin-left: 530px;
+}
